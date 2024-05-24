@@ -25,6 +25,8 @@ To play Tic Tac Toe locally on your machine:
 2. Open the `TicTacToe.html` file in your web browser.
 3. Start playing by clicking on the grid cells to make your moves.
    
+## OR
+    https://jinang12.github.io/Tic-Tac-Toe/
  ## OR
    https://jinang12.github.io/Tic-Tac-Toe/
 

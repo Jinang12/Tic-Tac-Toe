@@ -24,7 +24,8 @@ To play Tic Tac Toe locally on your machine:
 1. Clone this repository to your local machine using `git clone`.
 2. Open the `TicTacToe.html` file in your web browser.
 3. Start playing by clicking on the grid cells to make your moves.
-                    ##OR
+   
+ ## OR
    https://jinang12.github.io/Tic-Tac-Toe/
 
 ## Contributing

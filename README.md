@@ -27,8 +27,6 @@ To play Tic Tac Toe locally on your machine:
    
 ## OR
     https://jinang12.github.io/Tic-Tac-Toe/
- ## OR
-   https://jinang12.github.io/Tic-Tac-Toe/
 
 ## Contributing
 

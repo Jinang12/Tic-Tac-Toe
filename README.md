@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Tic-Tac-Toe
 
 Welcome to Tic Tac Toe! This repository contains a simple yet engaging implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript.
 
